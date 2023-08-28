@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robbaniariya&label=Profile%20views&color=0e75b6&style=flat" alt="robbaniariya" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Tensorflow**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 💬 Ask me about **Machine Learning**
 
