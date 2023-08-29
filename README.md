@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/44/71/42/1000_F_244714241_ylEkYttsJhSFkQ3mrJ0hLLS9BgQvA39z.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/44/71/42/1000_F_244714241_ylEkYttsJhSFkQ3mrJ0hLLS9BgQvA39z.jpg)
 <h1 align="center">Hi 👋, I'm Robbani Ariya Sena</h1>
 <h3 align="center">Diving Deep into Data: Crafting Intelligence through ML 📚</h3>
 <img align="right" alt="Coding" width="400" src="https://media.wired.com/photos/5941ebf7e9030c15ddbcd8c2/master/w_1920,c_limit/1CFAeP1I6qiU-ZMb-O4xyOA.gif">
